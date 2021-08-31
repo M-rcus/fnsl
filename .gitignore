@@ -1,2 +1,6 @@
 out
 config.yaml
+
+# Built files
+fnsly.exe
+fnsly
