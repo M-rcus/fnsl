@@ -39,7 +39,7 @@ go run .
 
 ## Credit & license
 
-All credit for version 1.0 goes to [reddit user /u/Winter-Elephant-2250](https://www.reddit.com/user/Winter-Elephant-2250/comments/p3j87m/released_fansly_scraper_app_open_source/) (initial commit - [`dc35e55e21a77d423855917b062d975195577e2a`](commit/dc35e55e21a77d423855917b062d975195577e2a)).
+All credit for version 1.0 goes to [reddit user /u/Winter-Elephant-2250](https://www.reddit.com/user/Winter-Elephant-2250/comments/p3j87m/released_fansly_scraper_app_open_source/) - Initial commit: dc35e55e21a77d423855917b062d975195577e2a
 
 Based on the reddit post, version 1.0 is licensed under the "WTF Public License" (WTFPL)
 
@@ -54,7 +54,7 @@ as the name is changed.
           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
 
-0. You just DO WHAT THE FUCK YOU WANT TO.
+1. You just DO WHAT THE FUCK YOU WANT TO.
 ```
 
 However, any changes afterwards will be licensed under "Unlicense": https://unlicense.org/  
